@@ -5,3 +5,4 @@ The other kinds of navigational sensors are abandoned. The usage of this project
 1. Download the necessary tools and the project.
 2. Put in 'make px4fmu-v2_default' in the px4 concole.
 3. If the project compiles successfully, put in 'make px4fmu-v2_default upload' in the concole.
+Finish!
